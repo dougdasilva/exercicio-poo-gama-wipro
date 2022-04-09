@@ -1,4 +1,4 @@
-# exercico-poo-gama-wipro
+# exercicio-poo-gama-wipro
  Exercícios resolvidos sobre POO com o grupo 4 no dia 06/04
 ##Nome: Douglas Williams
        Icaro Leone
